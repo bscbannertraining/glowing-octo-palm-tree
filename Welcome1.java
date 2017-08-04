@@ -2,6 +2,9 @@
 //uppercase letter and have an uppcase letter
 //for each additional word in the class name
 
+/*author: D. Garrity
+ * Date:8/4/2017
+ * */
 
 public class Welcome1 //programmer-defined class
 {
